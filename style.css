@@ -1,11 +1,11 @@
+body {
+  margin: 0;
+}
+
 .main-container {
   margin: 0;
   scroll-behavior: smooth;
   background-color: #10051a;
-}
-
-body {
-  margin: 0;
 }
 
 #navigation {
